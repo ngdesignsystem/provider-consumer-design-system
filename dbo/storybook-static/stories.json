@@ -1,0 +1,97 @@
+{
+  "v": 2,
+  "globalParameters": {},
+  "kindParameters": {
+    "Design System/Intro": {
+      "fileName": 467,
+      "framework": "react"
+    },
+    "Design System/Button": {
+      "fileName": 471,
+      "framework": "react"
+    }
+  },
+  "stories": {
+    "design-system-intro--page": {
+      "id": "design-system-intro--page",
+      "name": "Page",
+      "kind": "Design System/Intro",
+      "story": "Page",
+      "parameters": {
+        "docsOnly": true,
+        "__id": "design-system-intro--page",
+        "__isArgsStory": false
+      }
+    },
+    "design-system-button--basic": {
+      "id": "design-system-button--basic",
+      "name": "Basic",
+      "kind": "Design System/Button",
+      "story": "Basic",
+      "parameters": {
+        "__id": "design-system-button--basic",
+        "__isArgsStory": true
+      }
+    },
+    "design-system-button--all": {
+      "id": "design-system-button--all",
+      "name": "All",
+      "kind": "Design System/Button",
+      "story": "All",
+      "parameters": {
+        "__id": "design-system-button--all",
+        "__isArgsStory": false
+      }
+    },
+    "design-system-button--sizes": {
+      "id": "design-system-button--sizes",
+      "name": "Sizes",
+      "kind": "Design System/Button",
+      "story": "Sizes",
+      "parameters": {
+        "__id": "design-system-button--sizes",
+        "__isArgsStory": false
+      }
+    },
+    "design-system-button--loading": {
+      "id": "design-system-button--loading",
+      "name": "Loading",
+      "kind": "Design System/Button",
+      "story": "Loading",
+      "parameters": {
+        "__id": "design-system-button--loading",
+        "__isArgsStory": false
+      }
+    },
+    "design-system-button--disabled": {
+      "id": "design-system-button--disabled",
+      "name": "Disabled",
+      "kind": "Design System/Button",
+      "story": "Disabled",
+      "parameters": {
+        "__id": "design-system-button--disabled",
+        "__isArgsStory": false
+      }
+    },
+    "design-system-button--contains-icon": {
+      "id": "design-system-button--contains-icon",
+      "name": "Contains Icon",
+      "kind": "Design System/Button",
+      "story": "Contains Icon",
+      "parameters": {
+        "__id": "design-system-button--contains-icon",
+        "__isArgsStory": false
+      }
+    },
+    "design-system-button--basic-wrapper": {
+      "id": "design-system-button--basic-wrapper",
+      "name": "Basic Wrapper",
+      "kind": "Design System/Button",
+      "story": "Basic Wrapper",
+      "parameters": {
+        "__id": "design-system-button--basic-wrapper",
+        "__isArgsStory": false
+      }
+    }
+  }
+}
